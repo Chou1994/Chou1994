@@ -1,6 +1,7 @@
 ### Hello World 👋
 ***
-#### 🌱 Hi,我是Eric. 现在是豪猪（阿里&万豪合资JV）后端。平时喜欢Python，搞搞爬虫，成就感十足。
+#### 🌱 Hi,I'm Eric. 
+#### 🤔 I’m currently learning Python.
 <!--
 **Chou1994/Chou1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
